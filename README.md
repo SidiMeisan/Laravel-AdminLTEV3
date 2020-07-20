@@ -10,8 +10,8 @@ This project is to create an Admin LTE page using laravel as back-end programmin
 To run this project, install it locally using this code:
 
 ```
-$ git clone linktogithubrepo.com/projectName
-$ cd projectName
+$ git clone https://github.com/SidiMeisan/Laravel-AdminLTEV3.git
+$ cd Laravel-AdminLTEV3
 ```
 You can change the last word (“tutorial” in this example) to be the name of the working branch you prefer. This is going to checkout the start tag and put it on a fresh new branch with the name you provide here. This allows you to work without ruining the final code in your project (you can always move over to the master branch for the final).
 
